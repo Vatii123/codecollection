@@ -1,3 +1,8 @@
 # My Code Collection
 
-code that i written, currently learning Kotlin, Python and HTML
+languages list :
+
+Python
+HTML
+Kotlin
+Swift (new)
