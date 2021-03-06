@@ -1,8 +1,16 @@
 # My Code Collection
+all these code are written by me.
 
-languages list :
+languages :
+
+Java
+
+JavaScript
 
 Python
-HTML
+
 Kotlin
-Swift (new)
+
+HTML
+
+Swift
